@@ -7,7 +7,6 @@
 * Date Modified : Present
 ***********************************************************************************/
 /***********************************************************************************
-*
 *Hello, This is my first GITHUB Repo this will contain my next projects in RTOS
 *git add .                                  add all changes 
 *git commit -m "Version"                       commit this changes to local repo 
